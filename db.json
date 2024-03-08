@@ -1,0 +1,18 @@
+{
+  "post": [
+    {
+      "id": "103",
+      "name": "Meloxicam",
+      "quantity": 85,
+      "price": 450,
+      "expiry": 2025
+    },
+    {
+      "id": "e78b",
+      "name": "product",
+      "quantity": "222",
+      "price": "bbb",
+      "expiry": "234567"
+    }
+  ]
+}
